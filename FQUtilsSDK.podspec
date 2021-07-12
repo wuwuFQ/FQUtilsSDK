@@ -11,6 +11,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "FQUtilsSDK"
   spec.version      = "0.0.1"
+  spec.platform     = :ios, '9.0'
   spec.summary      = "iOS开发常用工具类."
   spec.description  = <<-DESC
   iOS开发常用工具类：时间选择器、监听截屏和录屏、指纹和面部识别、关键字高亮、添加水印、截图和Toast
