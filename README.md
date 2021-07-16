@@ -1,6 +1,6 @@
 # FQUtils
 > iOS开发常用工具类：日期时间选择器、提醒框Toast、监听屏幕截屏和录屏、指纹和脸部识别、文本关键字高亮、添加水印、页面截图和获取当前控制器。
-
+[博客详细介绍](https://wuwufq.blog.csdn.net/)
 FQUtils工具 | 功能简介 | 主要使用类
 | :--: | :--: | :--: |
 获取当前控制器 | 获取当前控制器<br>获取view所在的控制器<br>获取KeyWindow | FQUtils
@@ -41,6 +41,6 @@ pod install
 <div  align = 'center' >
 <img src="https://user-images.githubusercontent.com/23627803/125396584-52b8ff80-e3df-11eb-90b5-b55af102e5a0.gif" width = 40% height = 30% >
 </div>
-
+[博客详细介绍](https://wuwufq.blog.csdn.net/)
 
 
