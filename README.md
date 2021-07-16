@@ -22,6 +22,9 @@ FQUtils工具 | 功能简介 | 主要使用类
 
 ![image](https://user-images.githubusercontent.com/23627803/125395602-fc978c80-e3dd-11eb-9ddc-91888041af52.png)
 
+4. 在引用三方Framework的时候报错：`Building for iOS Simulator, but the linked and embedded framework ‘****.framework' was built for iOS + iOS Simulator.`
+5. 解决方法是： `Buil Settings` --> `Build Options` --> `Validate Workspace` 改为**Yes**
+
 
 ## cocoaPods自动集成
 _这里默认大家对cocoaPods都是信手拈来的_
